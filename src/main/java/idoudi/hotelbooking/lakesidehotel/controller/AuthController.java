@@ -24,10 +24,6 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 import java.util.Map;
 
-
-/**
- * @author Simpson Alfred
- */
 @RestController
 @RequestMapping("/auth")
 @RequiredArgsConstructor

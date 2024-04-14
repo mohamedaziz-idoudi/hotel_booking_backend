@@ -5,9 +5,6 @@ import idoudi.hotelbooking.lakesidehotel.model.User;
 
 import java.util.List;
 
-/**
- * @author Simpson Alfred
- */
 
 public interface IRoleService {
     List<Role> getRoles();

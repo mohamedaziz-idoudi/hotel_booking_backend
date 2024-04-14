@@ -4,9 +4,7 @@ import idoudi.hotelbooking.lakesidehotel.model.User;
 
 import java.util.List;
 
-/**
- * @author Simpson Alfred
- */
+
 
 public interface IUserService {
     User registerUser(User user);
